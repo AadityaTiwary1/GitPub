@@ -6,7 +6,7 @@ Built for the *Full Stack Developer (Web + Mobile)* intern assessment.
 
 | Item | Where |
 |---|---|
-| Web app (Vercel) | `<your-web-url>.vercel.app` |
+| Web app (Vercel) | `https://git-pub-eight.vercel.app/` |
 | Backend API (Vercel) | `https://backend-omega-jade-33.vercel.app` (default in the mobile app) |
 | Android APK | Download button on the web login page (`VITE_APK_DOWNLOAD_URL`) |
 | Health check | `GET /api/health` |
